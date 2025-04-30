@@ -29,7 +29,7 @@ layers:
   - L
   - {t: ;, s: ':'}
   - {t: '''', s: '"'}
-  - {t: '$$mdi:apple-keyboard-control$$', h: ARROW}
+  - $$mdi:apple-keyboard-control$$
   - Z
   - X
   - C
@@ -225,7 +225,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - {t: ;, s: ':'}
   - {t: '''', s: '"'}
-  - {t: '$$mdi:apple-keyboard-control$$', type: held}
+  - $$mdi:apple-keyboard-control$$
   - Z
   - X
   - C
@@ -245,12 +245,3 @@ layers:
   - {t: '$$mdi:keyboard-return$$', h: Fn}
   - SYMBOL
   - $$mdi:apple-keyboard-option$$
-combos:
-- p: [28, 9]
-  k: $$mdi:arrow-up-bold$$
-- p: [23, 28]
-  k: $$mdi:arrow-left-bold$$
-- p: [28, 24]
-  k: $$mdi:arrow-down-bold$$
-- p: [28, 25]
-  k: $$mdi:arrow-right-bold$$
