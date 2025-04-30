@@ -56,25 +56,21 @@
         ARROW_UP {
             bindings = <&kp UP_ARROW>;
             key-positions = <28 9>;
-            timeout-ms = <200>;
         };
 
         ARROW_DOWN {
             bindings = <&kp LEFT_ARROW>;
             key-positions = <23>;
-            timeout-ms = <200>;
         };
 
         ARROW_DOWN {
             bindings = <&kp DOWN_ARROW>;
             key-positions = <28 24>;
-            timeout-ms = <200>;
         };
 
         ARROW_RIGHT {
             bindings = <&kp RIGHT_ARROW>;
             key-positions = <28 25>;
-            timeout-ms = <200>;
         };
     };
 
