@@ -59,7 +59,7 @@
         };
 
         ARROW_LEFT {
-            bindings = <&kp LEFT>;
+            bindings = <&kp LEFT_ARROW>;
             key-positions = <28 23>;
         };
 
