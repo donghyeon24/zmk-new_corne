@@ -61,7 +61,7 @@
 
         ARROW_LEFT {
             bindings = <&kp LEFT_ARROW>;
-            key-positions = <23>;
+            key-positions = <23 28>;
             timeout-ms = <200>;
         };
 
