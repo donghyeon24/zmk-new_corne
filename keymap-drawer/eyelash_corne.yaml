@@ -245,3 +245,12 @@ layers:
   - {t: '$$mdi:keyboard-return$$', h: Fn}
   - SYMBOL
   - $$mdi:apple-keyboard-option$$
+combos:
+- p: [28, 9]
+  k: $$mdi:arrow-up-bold$$
+- p: [28, 23]
+  k: $$mdi:arrow-left-bold$$
+- p: [28, 24]
+  k: $$mdi:arrow-down-bold$$
+- p: [28, 25]
+  k: $$mdi:arrow-right-bold$$
