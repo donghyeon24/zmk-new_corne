@@ -50,6 +50,30 @@
         tap-ms = <100>;
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        ARROW_UP {
+            bindings = <&kp UP_ARROW>;
+            key-positions = <28 9>;
+        };
+
+        ARROW_LEFT {
+            bindings = <&kp LEFT>;
+            key-positions = <28 23>;
+        };
+
+        ARROW_DOWN {
+            bindings = <&kp DOWN_ARROW>;
+            key-positions = <28 24>;
+        };
+
+        ARROW_RIGHT {
+            bindings = <&kp RIGHT_ARROW>;
+            key-positions = <28 25>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
