@@ -245,3 +245,12 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+combos:
+- p: [28, 9]
+  k: $$mdi:arrow-up-bold$$
+- p: [28, 23]
+  k: $$mdi:arrow-left-bold$$
+- p: [28, 24]
+  k: $$mdi:arrow-down-bold$$
+- p: [28, 25]
+  k: $$mdi:arrow-right-bold$$
